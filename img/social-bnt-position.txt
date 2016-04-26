@@ -1,9 +1,0 @@
-﻿To display this image...	...use this style
- 
-	твитер background-position: 0px 0px;
- 
-	файсбук background-position: 0px -42px;
- 
-	гугл background-position: 0px -84px;
- 
-	линкед background-position: 0px -126px;
